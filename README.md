@@ -1,4 +1,4 @@
-# Aseprite Auto Build
+# Aseprite Auto Build 2
 
 [![Auto build Aseprite](https://github.com/hardingadonis/aseprite-auto-build/actions/workflows/auto-build.yml/badge.svg)](https://github.com/hardingadonis/aseprite-auto-build/actions/workflows/auto-build.yml)
 ![GitHub contributors](https://img.shields.io/github/contributors/hardingadonis/aseprite-auto-build)
